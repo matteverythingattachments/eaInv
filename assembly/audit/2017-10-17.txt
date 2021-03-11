@@ -1,0 +1,1 @@
+R1-Middle 1/8wall 1.6x52.5pipe W2-20 *SF W2-21 R2-A B40 W2-37 W3-24 W1-67 CB4-D W3-28 W3-29 R3-E PF-7 duplicate W3-30 R10 Arthur 3-3 K20 Drill Area FS-2 CB1-B Drill Area 3/16wall 1.6x31 tapped W3-58 L20 SBLD1-B GR7-30 W2-25 Y20 OHR 4-2 

@@ -1,0 +1,1 @@
+R1-J W2-53 G10 B10 W3-22 Z10 W1-57 R2-B E11 W2-6 V10 U1-1  W2-35 PF-2 SBLD1-C OHR 1-1 CB3-C OHR 2-1 GR Side W1-10 W2-16 W1-35 Press Brake Area Q10 W2-67 mike bins 1/8wall 2x8.50 R3-J GR2-40 GR1-40 mike bins 1/8wall 2x8.50 

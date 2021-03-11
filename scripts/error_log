@@ -1,0 +1,46 @@
+[24-Oct-2019 19:55:39 UTC] PHP Parse error:  syntax error, unexpected ',' in /home1/everyto7/public_html/inventorycorimpco/scripts/login.php on line 9
+[31-Oct-2019 13:09:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/everyto7/public_html/inventorycorimpco/scripts/login.php on line 8
+[31-Oct-2019 13:09:19 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/everyto7/public_html/inventorycorimpco/scripts/login.php on line 8
+[17-Jul-2020 13:01:21 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'eattachm_tam'@'localhost' to database 'eattachm_inventory' in /home3/eattachments/public_html/groundbraker/blitz/inventory/admin/scripts/access.php on line 8
+[17-Jul-2020 13:01:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eattachments/public_html/groundbraker/blitz/inventory/admin/scripts/access.php:8) in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 7
+[17-Jul-2020 13:01:21 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 9
+[17-Jul-2020 13:01:21 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 9
+[17-Jul-2020 13:01:47 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 9
+[17-Jul-2020 13:01:50 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 9
+[17-Jul-2020 13:11:01 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 9
+[17-Jul-2020 13:14:55 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 10
+[17-Jul-2020 13:24:38 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 10
+[17-Jul-2020 14:47:02 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 10
+[20-Jul-2020 07:45:22 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 10
+[20-Jul-2020 07:48:54 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 10
+[20-Jul-2020 07:52:24 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 10
+[20-Jul-2020 07:52:50 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 10
+[20-Jul-2020 07:55:32 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 22
+[20-Jul-2020 07:55:58 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 12
+[20-Jul-2020 07:56:02 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 12
+[20-Jul-2020 08:08:51 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 12
+[20-Jul-2020 08:08:55 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 12
+[20-Jul-2020 08:09:45 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 12
+[20-Jul-2020 08:26:35 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 17
+[20-Jul-2020 08:28:37 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 17
+[20-Jul-2020 08:29:30 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 19
+[20-Jul-2020 08:38:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php:27) in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 33
+[08-Sep-2020 15:49:39 America/Chicago] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[08-Sep-2020 15:49:39 America/Chicago] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[08-Sep-2020 15:50:16 America/Chicago] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[08-Sep-2020 15:50:16 America/Chicago] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[08-Sep-2020 15:52:26 America/Chicago] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[08-Sep-2020 15:52:26 America/Chicago] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[08-Sep-2020 15:53:34 America/Chicago] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[08-Sep-2020 15:53:34 America/Chicago] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[08-Sep-2020 15:53:44 America/Chicago] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[08-Sep-2020 15:53:44 America/Chicago] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[14-Oct-2020 13:38:19 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/eattachments/public_html/groundbraker/blitz/inventory/admin/scripts/access.php on line 8
+[14-Oct-2020 13:38:19 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 29
+[14-Oct-2020 13:38:19 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 29
+[14-Oct-2020 13:38:56 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/eattachments/public_html/groundbraker/blitz/inventory/admin/scripts/access.php on line 8
+[14-Oct-2020 13:38:56 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 29
+[14-Oct-2020 13:38:56 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 29
+[14-Oct-2020 13:44:14 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/eattachments/public_html/groundbraker/blitz/inventory/admin/scripts/access.php on line 8
+[14-Oct-2020 13:44:14 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 29
+[14-Oct-2020 13:44:14 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eattachments/public_html/groundbraker/blitz/inventory/scripts/login.php on line 29

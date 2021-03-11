@@ -1,0 +1,1 @@
+DT 20 PF-6 R1-Middle 1/8wall 1.6x52.5pipe SBLD3-B W1-24 R2-I B30 Arthur 6-5 A20 W2-38 FS-3 W3-50 W2-73 G10 CB3-B W3-24 A21 OHR 1-1 J40 W1-33 None Yet Drill Area 1/8wall 1.67x3 pipe R1-Middle 1/8wall 1.6x52.5pipe W1-8 W3-10 W3-31 FS-5 F10 W1-62 

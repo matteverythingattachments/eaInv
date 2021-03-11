@@ -1,0 +1,1 @@
+A3-1 A7-1 H2-2 A10-4 D3-4 B12-2 H5-1 Drill Area D1-2 E2-1 E1-1 F3-1 C5-4 B5-3 SF 1/4wall 2x2x19.25 D10-2 R3-L A13-4 B12-2 Drill Area 3/8wall 2x36.5  SF 1.25x21.625 solid E12-1 B9-2 H14-3 F10-1 F9-3 Mike Area 1/4wall 2x2x23.25 OHR 3-4 OHR 4-2 

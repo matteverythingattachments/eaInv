@@ -1,0 +1,1 @@
+E1-4 H12-1 F5-2 S20 E3-2 Lathe Area R1-I H12-1 O30 A6-1 E13-2 FS-2 R3-K PF-top E1-1 R2-F A10-2 A4-1 Drill Area 3/16wall 1.6x31 tapped D Side B4-3 R40 B41 A1-3 E61 H3-2 D6-1 B7-4 D2-1  

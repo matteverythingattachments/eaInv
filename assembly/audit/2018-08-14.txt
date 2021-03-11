@@ -1,0 +1,1 @@
+SF 1/4wall 2x2x19.25 Z10 W2-36 W1-66 W3-74 W2-5 R2-Bottom mike pallet R3 Middle U2-2 OHR 2-6 R1-Middle PF-top W1-25 W1-75 W3-25 Hoop Rack Area W1-62 W1-75 SBLD3-A OHR 3.4 *SF W2-77 mike bins 1/8wall 2x8.50 GR2-20 Arthur 6-2 Arthur station W3-84 W1-71 R2-B 

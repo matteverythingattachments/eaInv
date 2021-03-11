@@ -1,0 +1,1 @@
+SF 1/4wall 2x2x37.25 D42 B41 F70 D22 D81 G70 R3-J T30 Y30 Auther duplicate Mike Area 1/4wall 2x2x23.25 R2-J OHR 3-1 F40 W3-33 B80 Hoop Rack Area E21 U2-3 Drill Area 1/8wall 1.18x1.25 OHR 2-2 CB1-A B60 B41 J20 OBSOLETE? E70 R2-H 

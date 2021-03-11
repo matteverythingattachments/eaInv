@@ -1,0 +1,1 @@
+PBR FS-6 H11-3 Mike Area 1/4wall 2x2x18.5 B3-3 BOLT BIN R2-D C10-3 A12-3 OHR 3-4 D1-1 FS-1 duplicate B12-2 D5-3 F8-3 R1-C D9-2 H1-3 H7-1 Drill Area 1/4wall 1.25x4 5/8 tapped D3-1 B13-3 G1-2 delete H17-1 B3-1 Drill Area 3/16wall 1.6x31 tapped B9-2 H18-3 

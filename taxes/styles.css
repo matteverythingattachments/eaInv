@@ -1,0 +1,161 @@
+
+  body{ background: #efefef; }
+      h2{ margin: 0; }
+      #login{ 
+        display:block;
+        width: 300px;
+        margin: 200px auto;
+        border: solid 1px #c0c0c0;
+        padding: 20px;
+        background: #d6d6d6;
+      }
+      input[type=text], input[type=password]{ 
+        padding: 3px 0 3px 0;
+        margin: 5px;
+        text-indent: 7px;
+        font-size: 1.1rem;
+      }
+      input[type=submit]{
+        margin: 8px 0 0 20px;
+        padding: 4px 20px;
+        cursor:pointer;
+        font-weight:bold;
+      }
+    
+      .ptext{
+        padding: 0 !important;
+        margin: 0 !important;
+        font-size: 16px !important;
+        border: none;
+        background-color: transparent;
+        text-align: right;
+      }
+
+      #tabledatadiv, #tabledatadiv2{
+        overflow-x: hidden;
+        overflow-y: auto;
+        width: 981px;
+        height: 510px;
+        margin: 20px auto 10px auto;
+        border: solid 1px #d0d0d0;
+      }
+      #tabledatadiv{ width: 845px; }
+      #tabledata {
+        font-family: Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+      }
+
+      #tabledata td, #tabledata th {
+          border: 1px solid #ddd;
+          padding: 8px;
+      }
+      #tabledata tr:nth-child(even){background-color: #fff;}
+
+      #tabledata tr:hover {background-color: #ddd;}
+
+      #tabledata th {
+          padding-top: 12px;
+          padding-bottom: 12px;
+          text-align: left;
+          background-color: #656565;
+          color: white;
+          border: solid 1px #d0d0d0;
+      }
+      #tabledatadiv2 #tabledata th{ 
+        font-size: 12px; 
+        text-align:center;
+        padding: 5px;
+      }
+      #tabledatadiv2 #tabledata td{ padding: 5px; text-align: right; }
+      #tabletotals, #tabletotals2{
+        width: 847px;
+        margin: 10px auto;
+        padding-right: 10px;
+      }
+      #tabletotals2{ width: 965px; }
+      #tabletotals table, #tabletotals2 table{ 
+        border-top: solid 1px #d0d0d0;
+        border-bottom: solid 1px #d0d0d0;
+      }
+      #paymenttotal, #taxtotal, #orderstotal, #statetaxtotal, #countytaxtotal, #taxtotaldifferent, #exempttotal{ 
+        font-weight:bold;
+        font-size: 1.1rem;
+        text-align: right;
+      }
+      #tabletotals td, #tabletotals2 td{ padding: 8px;}
+
+      .statustab, .statustab2{
+        display:inline-block;
+        font-weight:bold;
+        padding: 4px 15px;
+        text-align:center;
+        width: 90px;
+        margin: 10px 10px;
+        background: #d5f5b0;
+        border: solid 1px #b3d091;
+        cursor: pointer;
+      }  
+      .statustab:hover, .statustab2:hover{
+        background: #c0c0c0;
+        border: solid 1px #a2a2a2;
+      }
+      .hidestatus{ 
+        background: #f5b0b0 !important;
+        border: solid 1px #d09191 !important;
+      }
+      
+      #choosedata, .steps{ 
+        padding: 8px;
+        margin-top: 20px;
+        background: #dcdcdc;
+        border: solid 1px #c5c5c5;
+        text-align: center;
+      }
+      #choosedata label, .steps label{ font-weight:bold; font-size: 1.1rem; }
+      #choosedata select, .steps select{
+        padding: 4px;
+        font-weight:bold;
+        font-size: 1.1rem;
+        
+      }
+
+      .Cancelled{ background-color:#ffe0e0 !important; }
+
+      .orderid{ cursor:pointer; }
+      .orderid:hover{ color: #da1414; }
+
+      .print{ 
+        float:right;
+        cursor:pointer;
+        margin-right: 15px;
+        font-weight:bold;
+        color: #da1414;
+      }
+
+      #showall{ 
+        display:inline-block;
+        cursor:pointer;
+        margin-left: 20px;
+        font-size: 15px;
+        color: #b53232;
+      }
+
+      .nonexempt, .exempt{ cursor:pointer; }
+
+      #tabledata tr.bold{ font-weight:bold; }
+      .center{ text-align:center; }
+      .fixed { position:fixed; }
+      .hide{ display:none; }
+
+
+
+@media print {
+  body{ background: #fff; margin: 0; padding: 0; }
+  .fixed{ position: relative; }
+  #tabletotals, #tabletotals2{ display:none; }
+  #tabledatadiv, #tabledatadiv2{ overflow-x: visible; overflow-y: visible; border: none; }
+  .toprow{ display:none; }
+}
+
+
+

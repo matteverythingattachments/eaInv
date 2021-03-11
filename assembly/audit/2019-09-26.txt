@@ -1,0 +1,1 @@
+D8-1 mike bins 1/8wall 2x2x10.675 S20 C6-4 R3-D D10-1 R1-A mike E3-1 A1-1 FS-7 R1-A F9-2 G7-2 H9-3 FS-5 D10-2 G4-2 R1-H D7-3 H2-3 AA R3-F DT H7-3 A8-1 E13-1 E9-4 Mike Area 3/16wall 2.87x6.75 E7-2 

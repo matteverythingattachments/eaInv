@@ -1,0 +1,1 @@
+W3-34 mike bins 1/8wall 2x8.50 G20 W2-30 E32 Z20 I20 E21 W1-49 P-NUT W2-39 SF 1.25x21.625 solid W2-48 W3-40 W3-69 W1-22 Hoss Machine Area 1 GR5-30 Mike Area CB3-B R3-Ctr W2-25 R1-C E20 W1-8 X10 W1-19 W1-6, W1-63 FS-2 None Yet 

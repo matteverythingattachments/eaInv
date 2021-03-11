@@ -1,0 +1,1 @@
+R1-H H30 mike bins 1.25x39.25 solid U4-1  W1-30 PF-9B CB1-B R1-BTTM H30 W2-Top W3-46 W3-47 E12 W3-65 W3-66 W1-12 R2-B Drill Area 1/4wall 1.25x4 5/8 tapped SF W2-19 W2-62 W2-75 Hoss Machine area W2-48 H20 Y40 W3-19 W3-44 R1-Middle 1/8wall 1.6x52.5pipe obsolete PF-8C U3-2 GR4-10 

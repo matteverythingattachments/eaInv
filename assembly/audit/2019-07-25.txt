@@ -1,0 +1,1 @@
+W1-Side Drill Area 1/4wall 1.25x4.25 tapped U3-3 G11 R3-F E30 C82 R1-Middle 1/8wall 1.6x52.5pipe C30 OHR 2-6 W3-2 F103 C62 E12 OHR 1-2 2x3x48 R1-H W3-50 Drill Area 1/4wall 1.25x4 5/8 tapped C41 P10-S3 DT* OHR 3-2 1/4wall 2x2x72.6.25 A81 N20 A53 Drill Area 3/16wall 1.6x31 tapped CB1-A R3-Ctr R2-H delete 

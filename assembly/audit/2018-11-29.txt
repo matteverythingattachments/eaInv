@@ -1,0 +1,1 @@
+C30 E10 W1-Side GR4-20 Y40 W3-82 W3-83 V10 W3-49 W3-69 Z20 W2-1, W2-2 SBLD2-B R40 R2-F W1-43 W1-51 W1-53 Drill Area 1/4wall 1.25x4 5/8 tapped Brake Press Area W3-64 W1-56 U3-2 OHR 1-2 1/8wall 1.62x39.62 Drill Area 1/8wall 1.18x1.25 SF 1/4wall 2x2x37.25 U1-1 Hoop Rack W1-27 U6-2 W2-66 

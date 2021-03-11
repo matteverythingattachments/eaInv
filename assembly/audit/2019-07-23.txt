@@ -1,0 +1,1 @@
+C71 OHR 4-2 W3-30 Mike Bin E91 E51 R1-D Arthur 5-1 B71 Brake Press Area F72 SF F82 F40 A52 W20 E32 CB Side A40 D103 H20 F62 F101 B21 C62 Drill Area 1/4wall 1.25x4 5/8 tapped B63 W2-74 Auther A42 

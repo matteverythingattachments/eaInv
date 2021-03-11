@@ -1,0 +1,1 @@
+H10-1 Mike Area 1/4wall 2x2x23.25 R1-J X10 H6-3 C1-3 R1-F R2-L E11-1 F12-3 H21-2  D9-1 H3-2 C8-3 C3-2 C13-3 A5-3 Lathe Area R1-D H Side C1-2 R1-Middle 3/16wall 2x3x55  C9-1 B4-2 Drill Area OHR 1-2 E1-3 A13-4 H6-3 

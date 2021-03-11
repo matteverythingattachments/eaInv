@@ -1,0 +1,1 @@
+CB3-D R1-B R1-F Z Side Z10 W2-15 OHR 3-3 W1-55 F10 OHR 5-1 U6-3 C20 I30 Drill Area 3/8wall 2x36.5 W3-65 W3-66 W1-18 W2-20 W3-84 Arthur station W1-48 W1-29 W3-40 R1-BTTM I30 GR1-30 W1-5 Wood 1 Top M30 Arthur 5-1 Drill Area 3/8wall 2x36.5 R3-K 
