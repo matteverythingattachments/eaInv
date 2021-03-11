@@ -1,0 +1,1 @@
+R1-G duplicate B4-1 G9-3 S30 E3-3 Drill Area 1/4wall 1.25x4.25 tapped SF 3/8wall 2x19.25 tapped SF 1/8wall 2x17.75 G3-1 F Side B8-2 F2-3 H8-4 H11-1 F5-2 DT* E9-2 A13-3 H8-3 A8-3 OBSOLETE? C6-3 E1-3 A11-2 OHR 5-2 A13-2 H6-2 G6-3 Mike Area 

@@ -1,0 +1,1 @@
+A52 PF-8A F32 D22 F71 O40 C60 H51 G22 B83 D91 D60 FS-TOP A63 Arthur 5-3 D61 C101 OHR-1 CB4-B A Top Arthur station PF-8C AA30 Arthur 5-1 R1-I C60 R1-Middle 1/8wall 1.6x52.5pipe Drill Area 1/8wall 1.18x1.25 G61 F20 

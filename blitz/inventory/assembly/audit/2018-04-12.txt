@@ -1,0 +1,1 @@
+O20 R2-B W3-38 GR3-10 Q30 W1-42 Drill Area FS-2 W3-69 R1-Middle 1/8wall 1.6x52.5pipe W3-84 GR7-40 W3-63 W3-33 W3-9 Brake Press Area W1-67 W2-76 Arthur 6-5 GR3-30 W1-16 R1-H O30 N20 W2-Top E10 Drill Area 3/16wall 1.6x31 tapped V20 W2-11 F20 

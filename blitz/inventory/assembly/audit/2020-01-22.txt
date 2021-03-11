@@ -1,0 +1,1 @@
+P10-S2 R1-Middle 1/8wall 1.6x52.5pipe F4-2 C10-4 E10-1 R1-E D10-2 DT* Mike Bin 1.25x31.25 solid Mike Bin 1.25x31.25 solid Mike Area OHR 6-1 A10-4 D8-2 C13-3 R2-K B12-1 G5-2 G2-3 H16-1 G1-4 D1-1 H13-1 B8-1 B8-2 B5-1 A7-3 F10-4 D9-2 FS-7 

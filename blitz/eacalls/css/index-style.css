@@ -1,0 +1,139 @@
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+
+body {
+  box-sizing: border-box;
+}
+
+/* The popup form - hidden by default */
+.form-popup {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes...haha */
+  transform: translate(-50%, -50%);
+  border: 1px solid #4e4c4c;
+  padding: 10px;
+  background: #fff;
+  z-index: 9;
+}
+
+/* Add styles to the form container */
+.form-container {
+  max-width: 350px;
+  padding: 10px 5px 5px 0px;
+  background-color: #403e3e;
+}
+
+select {
+  width: 50%;
+  padding: 8px 10px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+}
+
+/* When the inputs get focus, do something */
+.form-container select:focus,
+.form-container select:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Set a style for the Yes button */
+.form-container .btn {
+  background-color: #28a745;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom: 10px;
+  opacity: 0.8;
+}
+
+/* Add a red background color to the cancel button */
+.form-container cancel {
+  background-color: #db5c58;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes...haha */
+  transform: translate(-50%, -50%);
+}
+
+.form-container .no {
+  background-color: #db5c58;
+}
+
+/* Add some hover effects to the mf's */
+.form-container .btn:hover,
+.open-button:hover {
+  opacity: 1;
+}
+
+/* black background color to the top navigation */
+.topnav {
+  background-color: #244e6f;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  margin-left: 0px;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* color to the active/current link */
+.topnav a.active {
+  background-color: #3d81bb;
+  color: white;
+}
+
+#scroll {
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+  background-color: #3498db;
+  text-indent: -9999px;
+  display: none;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+#scroll span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -8px;
+  margin-top: -12px;
+  height: 0;
+  width: 0;
+  border: 8px solid transparent;
+  border-bottom-color: #ffffff;
+}
+
+#scroll:hover {
+  background-color: #e74c3c;
+  opacity: 1;
+  filter: 'alpha(opacity=100)';
+  -ms-filter: 'alpha(opacity=100)';
+}

@@ -1,0 +1,1 @@
+R1-B H6-2 A14-3 SF 1/4wall 2x2x37.25 A1-1 B9-2 H8-3 BUCKT G10-1 SF D11-2 C8-1 D12-4 Press Brake Area E6-4 R3 Middle H4-2 B4-1 D6-2 R1-Middle E7-1 O10-S B10-1 Press Brake Area G9-3 E5-3 mike pallet G11-4 E5-1 H4-3 

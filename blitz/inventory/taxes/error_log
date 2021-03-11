@@ -1,0 +1,8 @@
+[12-Sep-2019 16:59:51 UTC] PHP Parse error:  syntax error, unexpected ':' in /home2/everyto7/public_html/inventorycorimpco/taxes/tax-data.php on line 129
+[13-Sep-2019 14:18:17 UTC] PHP Fatal error:  Call to undefined function char() in /home2/everyto7/public_html/inventorycorimpco/taxes/tax-data.php on line 178
+[13-Sep-2019 18:01:58 UTC] PHP Parse error:  syntax error, unexpected '$salestax1' (T_VARIABLE) in /home2/everyto7/public_html/inventorycorimpco/taxes/tax-data.php on line 178
+[13-Sep-2019 18:02:03 UTC] PHP Parse error:  syntax error, unexpected '$salestax1' (T_VARIABLE) in /home2/everyto7/public_html/inventorycorimpco/taxes/tax-data.php on line 178
+[16-Sep-2019 14:34:27 UTC] PHP Parse error:  syntax error, unexpected '$salestax1' (T_VARIABLE) in /home2/everyto7/public_html/inventorycorimpco/taxes/tax-data.php on line 178
+[16-Sep-2020 11:24:59 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home3/eattachments/public_html/groundbraker/blitz/inventory/taxes/tax-data.php on line 154
+[16-Sep-2020 11:55:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/eattachments/public_html/groundbraker/blitz/inventory/taxes/tax-data.php on line 465
+[16-Sep-2020 12:55:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home3/eattachments/public_html/groundbraker/blitz/inventory/taxes/tax-data.php on line 155

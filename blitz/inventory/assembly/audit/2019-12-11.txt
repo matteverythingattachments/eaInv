@@ -1,0 +1,1 @@
+R2-A R1-C E8-3 R1-H H1-4 D9-2 R2-G R2-Bottom H3-2 OHR 3-3 PF-top A5-1 G11-4 H10-1 B1-3 B12-3 mike bins 2 F8-1 A8-1 mike bins H3-2 H3-2 D10-1 R1-A H7-2 E7-1 A14-3 A3-3 A13-3  

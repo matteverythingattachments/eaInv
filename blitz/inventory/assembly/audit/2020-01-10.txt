@@ -1,0 +1,1 @@
+F8-4 C9-1 A13-1 H8-1 R2-J D6-4 Drill Area 1/4wall 1.25x4.25 tapped B7-3 D5-1 OHR-1 A4-2 OHR 6-1 G13-2 B9-3 C4-3 E8-4 B5-1 F3-1 A7-2 F3-2 A8-3 B9-1 Mike Area 1/4wall 2x2x19.5 G6-2 H14-3 H4-2 OHR 4-2 A2-3 FS-2 G3-1 

@@ -1,0 +1,1 @@
+Q10 R1-J B91 OHR 5-2 F61 E22 E33 Auther Mike Bin 3/16wall 2x2x31.25 G51 A92 R1-G R2-J PF-9A B60 B82 CB1-A OHR 4-2 AAA E62 Drill Area 1/4wall 1.25x4 5/8 tapped C12 OHR 2-2 PF-2 F21 20 R3-Ctr F50 Drill Area duplicate 

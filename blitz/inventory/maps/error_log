@@ -1,0 +1,8 @@
+[17-Apr-2019 15:10:48 UTC] PHP Parse error:  syntax error, unexpected '{' in /home2/everyto7/public_html/inventorycorimpco/maps/index.php on line 35
+[18-Apr-2019 15:44:12 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home2/everyto7/public_html/inventorycorimpco/maps/index.php on line 73
+[18-Apr-2019 15:49:41 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home2/everyto7/public_html/inventorycorimpco/maps/index.php on line 75
+[18-Apr-2019 19:33:28 UTC] PHP Fatal error:  Cannot use [] for reading in /home2/everyto7/public_html/inventorycorimpco/maps/index.php on line 83
+[22-Apr-2019 12:07:38 UTC] PHP Parse error:  syntax error, unexpected '>' in /home2/everyto7/public_html/inventorycorimpco/maps/index.php on line 165
+[22-Apr-2019 15:45:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/everyto7/public_html/inventorycorimpco/maps/index.php on line 132
+[26-Apr-2019 18:13:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/everyto7/public_html/inventorycorimpco/maps/index.php on line 132
+[26-Apr-2019 18:13:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/everyto7/public_html/inventorycorimpco/maps/index.php on line 132

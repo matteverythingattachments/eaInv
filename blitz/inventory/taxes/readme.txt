@@ -1,0 +1,1 @@
+This subfolder is for Greg so that he can check for State Taxes on orders. Do not Delete this Folder or the Contents inside it. I've set up a Database on this server called TaxCheck as well.

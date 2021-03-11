@@ -1,0 +1,1 @@
+C13 P20 EE20 Q10 I10 E63 R2-D E30 Mike Bins 3/8wall 1.25x1.75 C70 T20 E40 M20 Mike Bins 3/8wall 1.25x1.75 E82 A32 Arthur 6-5 O10-S Hoss Machine area P10-S3 AAA OHR-1 W2-51 W2-77 CB2-C O40 Drill Area 1/4wall 1.25x4 5/8 tapped TR B40 D61 

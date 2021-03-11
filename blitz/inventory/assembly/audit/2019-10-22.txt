@@ -1,0 +1,1 @@
+SF 1/4wall 2x2x19.25 E6-3 E1-1 G2-3 H8-3 R3-F S20 R1-I R1-Middle 1/8wall 1.6x52.5pipe H10-1 OHR 3-3 Beside press Brake F Side R1-B R2-I B13-2 DT C1-2 F10-4 Drill Area 3/16wall 1.6x31 tapped C7-1 C5-2 W1-Side D5-1 O10-S B10-1 C10-4 F10-2 C1-3 B4-2 

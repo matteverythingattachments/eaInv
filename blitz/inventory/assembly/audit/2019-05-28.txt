@@ -1,0 +1,1 @@
+B41 W2-59 B51 Wood 1 Top H20 B70 W1-40 U4-4 Y40 D10 R2-K Mike Area 1/4wall 2x2x23.25 obsolete R1-D D32 DD20 W3-18 W1-Side Mike Area 1/4wall 2x2x18.5 Arthur 5-1 GR6-10 R3-J BB20 C51 W3-3 L30 SF 1/4wall 2x2x37.25 R2-Bottom E61 F70 

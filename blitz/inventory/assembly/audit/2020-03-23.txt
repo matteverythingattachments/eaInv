@@ -1,0 +1,1 @@
+A8-2 R2-Bottom R2-F B13-3 H21-1 SF 3/8wall 2x19.25 tapped A7-2 R3-H C8-1 mike bins 2 H10-1 H7-2 SF 1/8wall 2x17.75 Drill Area R3-C OHR 5-2 G4-2 B8-1 R1-Middle 3 D11-3 D7-2 A3-3 G5-2 OHR 3-1 G12-2 H6-2 H17-1 R3-Ctr H14-1 C9-3 

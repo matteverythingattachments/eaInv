@@ -1,0 +1,26 @@
+[09-Mar-2021 10:36:59 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home3/eattachments/public_html/groundbraker/blitz/eacalls/login.php on line 79
+[09-Mar-2021 13:08:19 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/eattachments/public_html/groundbraker/blitz/eacalls/challenge.php on line 6
+[09-Mar-2021 13:09:36 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/eattachments/public_html/groundbraker/blitz/eacalls/challenge.php on line 5
+[09-Mar-2021 13:09:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home3/eattachments/public_html/groundbraker/blitz/eacalls/challenge.php:4
+Stack trace:
+#0 /home3/eattachments/public_html/groundbraker/blitz/eacalls/index.php(9): include()
+#1 {main}
+  thrown in /home3/eattachments/public_html/groundbraker/blitz/eacalls/challenge.php on line 4
+[09-Mar-2021 13:39:34 America/Chicago] PHP Warning:  session_start(): open(/tmp/sessions/sess_af03a6a177e106921ad37076d03b8535, O_RDWR) failed: No such file or directory (2) in /home3/eattachments/public_html/groundbraker/blitz/eacalls/index.php on line 13
+[09-Mar-2021 13:39:34 America/Chicago] PHP Warning:  session_start(): Failed to read session data: files (path: /tmp/sessions) in /home3/eattachments/public_html/groundbraker/blitz/eacalls/index.php on line 13
+[09-Mar-2021 13:39:34 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/eattachments/public_html/groundbraker/blitz/eacalls/challenge.php on line 2
+[09-Mar-2021 13:40:08 America/Chicago] PHP Warning:  session_start(): open(/sessions/eacalls/sess_af03a6a177e106921ad37076d03b8535, O_RDWR) failed: No such file or directory (2) in /home3/eattachments/public_html/groundbraker/blitz/eacalls/logout.php on line 1
+[09-Mar-2021 13:40:08 America/Chicago] PHP Warning:  session_start(): Failed to read session data: files (path: /sessions/eacalls) in /home3/eattachments/public_html/groundbraker/blitz/eacalls/logout.php on line 1
+[09-Mar-2021 13:40:08 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/eattachments/public_html/groundbraker/blitz/eacalls/logout.php on line 2
+[09-Mar-2021 13:40:08 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home3/eattachments/public_html/groundbraker/blitz/eacalls/logout.php on line 3
+[09-Mar-2021 13:40:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eattachments/public_html/groundbraker/blitz/eacalls/logout.php:1) in /home3/eattachments/public_html/groundbraker/blitz/eacalls/logout.php on line 4
+[09-Mar-2021 13:40:12 America/Chicago] PHP Warning:  session_start(): open(/sessions/eacalls/sess_af03a6a177e106921ad37076d03b8535, O_RDWR) failed: No such file or directory (2) in /home3/eattachments/public_html/groundbraker/blitz/eacalls/logout.php on line 1
+[09-Mar-2021 13:40:12 America/Chicago] PHP Warning:  session_start(): Failed to read session data: files (path: /sessions/eacalls) in /home3/eattachments/public_html/groundbraker/blitz/eacalls/logout.php on line 1
+[09-Mar-2021 13:40:12 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/eattachments/public_html/groundbraker/blitz/eacalls/logout.php on line 2
+[09-Mar-2021 13:40:12 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home3/eattachments/public_html/groundbraker/blitz/eacalls/logout.php on line 3
+[09-Mar-2021 13:40:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eattachments/public_html/groundbraker/blitz/eacalls/logout.php:1) in /home3/eattachments/public_html/groundbraker/blitz/eacalls/logout.php on line 4
+[09-Mar-2021 13:40:46 America/Chicago] PHP Warning:  session_start(): open(/sessions/eacalls/sess_af03a6a177e106921ad37076d03b8535, O_RDWR) failed: No such file or directory (2) in /home3/eattachments/public_html/groundbraker/blitz/eacalls/logout.php on line 1
+[09-Mar-2021 13:40:46 America/Chicago] PHP Warning:  session_start(): Failed to read session data: files (path: /sessions/eacalls) in /home3/eattachments/public_html/groundbraker/blitz/eacalls/logout.php on line 1
+[09-Mar-2021 13:40:46 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/eattachments/public_html/groundbraker/blitz/eacalls/logout.php on line 2
+[09-Mar-2021 13:40:46 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home3/eattachments/public_html/groundbraker/blitz/eacalls/logout.php on line 3
+[09-Mar-2021 13:40:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eattachments/public_html/groundbraker/blitz/eacalls/logout.php:1) in /home3/eattachments/public_html/groundbraker/blitz/eacalls/logout.php on line 4

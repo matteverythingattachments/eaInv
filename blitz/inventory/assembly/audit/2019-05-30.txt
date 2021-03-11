@@ -1,0 +1,1 @@
+Mike Bin 3/8wall 2x9.5tapped C51 R2-G E80 F70 Q20 F63 B11 53 D30 mike bins 1.25x39.25 solid CB2-C Arthur 6-3 A82 V20  W1-77 G90 Y20 W2-49 F61 W30 E22 P10-S2 N10 A40 F102 Press Brake Area C70 R3-Ctr 

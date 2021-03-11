@@ -1,0 +1,1 @@
+E11 Y40 OHR 6-1 L30 Mike Area 1/4wall 2x2x18.5 U1-2 R1-C Mike Area 1 W3-54 W1-65 W1-47 W1-9 W2-56 OHR 3-5 W3-10 W3-76 W1-15 mike bins duplicate W2-56 R1-G S20 None Yet CB2-B duplicate L40 W2-40 GR2-20 W1-44 F20 
